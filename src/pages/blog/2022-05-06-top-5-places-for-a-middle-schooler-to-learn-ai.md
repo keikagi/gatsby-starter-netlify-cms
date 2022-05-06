@@ -9,6 +9,8 @@ featuredimage: /img/bill-nino-gteh4r8ssqm-unsplash.jpg
 tags:
   - AI
   - ML
+  - Middle-school
+  - Kids
 ---
 ![Picture of a Starship robot delivering packages. Photo by Bill Nino via Unsplash](/img/bill-nino-gteh4r8ssqm-unsplash.jpg "Picture of a Starship robot delivering packages. Photo by Bill Nino via Unsplash")
 
