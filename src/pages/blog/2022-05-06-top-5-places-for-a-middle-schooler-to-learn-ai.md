@@ -3,25 +3,25 @@ templateKey: blog-post
 title: Top 5 places for a middle schooler to learn AI.
 date: 2022-05-06T00:14:14.758Z
 description: Do you want to learn AI, but don’t know where to start? Well, we
-  have listed 5 great platforms to help you learn how to create your own AI’s in
-  no time! These sites all require a basic knowledge of coding, so if you don’t
-  know how to code yet, then you might want to check out our post here on the
-  best places to learn coding. The sites listed in this article will teach you
-  everything that you need to know about AI, including how they work, how to
-  make them, and how they might be used in real world situations.
-featuredpost: false
+  have listed 5 great platforms and courses to help you learn how to create your
+  own AI’s in no time! These sites all require a basic knowledge of coding, so
+  if you don’t know how to code yet, then you might want to check out our post
+  here on the best places to learn coding. The sites listed in this article will
+  teach you everything that you need to know about AI, including how they work,
+  how to make them, and how they might be used in real world situations.
+featuredpost: true
 featuredimage: /img/bill-nino-gteh4r8ssqm-unsplash.jpg
 tags:
   - AI
   - ML
-  - learning
-  - MiddleSchool
 ---
-Best websites to learn AI
+# Best websites to learn AI
 
+![Picture of a Starship robot delivering packages. Photo by Bill Nino via Unsplash](/img/bill-nino-gteh4r8ssqm-unsplash.jpg "Picture of a Starship robot delivering packages. Photo by Bill Nino via Unsplash")
 
+Picture of a Starship robot delivering packages. Photo by Bill Nino via Unsplash
 
-Udacity
+## Udacity
 
 Udacity is a great resource for learning AI. As a startup founded in 2011, they've designed their platform of classes with the needs of first-time users in mind. Their curriculum is designed by industry experts, and they offer many different course tracks, including an Intro to AI, Computer Vision, Deep Learning, Natural Language Processing (NLP), and Making Money with Machine Learning.
 
