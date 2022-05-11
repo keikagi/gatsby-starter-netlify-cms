@@ -3,7 +3,7 @@ templateKey: blog-post
 title: How to learn AI and ML before even going into High School
 date: 2022-05-11T20:59:34.686Z
 description: Discover the four pillars for learning AI and ML
-featuredpost: false
+featuredpost: true
 featuredimage: /img/ai-g1cc9ac5bf_1920.jpg
 tags:
   - AI
