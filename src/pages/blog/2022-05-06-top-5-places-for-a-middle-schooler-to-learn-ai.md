@@ -12,35 +12,19 @@ tags:
   - Middle-school
   - Kids
 ---
-```javascript
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VdRcnNtpJqI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-```
-
-<table  border="1">
-
-<tr border="1">
-
-<td>test</td>
-
-<td >test</td>
-
-</tr>
-
-</table>
-
 ![Picture of a Starship robot delivering packages. Photo by Bill Nino via Unsplash](/img/bill-nino-gteh4r8ssqm-unsplash.jpg "Picture of a Starship robot delivering packages. Photo by Bill Nino via Unsplash")
 
 Do you want to learn AI, but don’t know where to start? Well, we have listed 5 great platforms and courses to help you learn how to create your own AI’s in no time! These sites all require a basic knowledge of coding, so if you don’t know how to code yet, then you might want to check out our post here on the best places to learn coding. The sites listed in this article will teach you everything that you need to know about AI, including how they work, how to make them, and how they might be used in real world situations.
 
 # **Best websites to learn AI**
 
-## Udacity
+### Udacity
 
 Udacity is a great resource for learning AI. As a startup founded in 2011, they've designed their platform of classes with the needs of first-time users in mind. Their curriculum is designed by industry experts, and they offer many different course tracks, including an Intro to AI, Computer Vision, Deep Learning, Natural Language Processing (NLP), and Making Money with Machine Learning.
 
 If you sign up for one of their Nanodegree programs (the "intro" courses are free), you'll take on projects involving everything from self-driving cars to chatbots. They also have an active community forum where you can ask questions and receive feedback from other Udacity students.
 
-## Coursera
+### Coursera
 
 Coursera is a great place for middle schoolers to learn about AI. You can take courses from top universities around the world and industry experts, earning certificates or degrees along the way. Financial aid is available, so you can work toward your goals without having to pay out of pocket! There is also a huge selection of courses for you to take, so that you can find the one that’s the best fit for you. 
 
@@ -76,8 +60,18 @@ All of these sites provide real-world examples of machine learning and AI, taugh
 
 Here are some of the top courses:
 
-* Udacity's Intro to Machine Learning Nanodegree: Covers Python, linear regression, K-means clustering and other fundamental concepts. Includes 7 hours of online instruction per week over a period of several months. This course is also 100% free, making it a great course if you are on a tight budget. [[Click here to see.](https://www.udacity.com/course/intro-to-machine-learning--ud120)]
-* Coursera's Machine Learning Specialization: A college course available through Coursera that includes 5 parts, starting with basic principles and moving up to neural networks and sequence models. Each part takes an estimated 2 months to complete if you spend 10 hours per week on it, though you can move at a slower pace if needed. There is no fee for watching lectures or taking quizzes, but you must pay a $49 monthly subscription to submit assignments or receive a certificate upon completion.[[Click here to see.](https://www.coursera.org/specializations/machine-learning)]
+### **[Intro to Machine Learning Nanodegree](https://www.udacity.com/course/intro-to-machine-learning--ud120)**
+
+**By Udacity**
+
+Covers Python, linear regression, K-means clustering and other fundamental concepts. Includes 7 hours of online instruction per week over a period of several months. This course is also 100% free, making it a great course if you are on a tight budget.
+
+| Certificate Type | Duration                      | Price | Key Takeaway                          | Pre-requisites   | Learning Style               | Features                                    |
+| ---------------- | ----------------------------- | ----- | ------------------------------------- | ---------------- | ---------------------------- | ------------------------------------------- |
+| None             | ~10 Weeks at 7 hours per week | Free  | Get a baseline working knowlege of ML | Coding in Python | Auditory and visual learners | Interactive Quizzes, Self-Paced, Expert Led |
+
+Coursera's Machine Learning Specialization: A college course available through Coursera that includes 5 parts, starting with basic principles and moving up to neural networks and sequence models. Each part takes an estimated 2 months to complete if you spend 10 hours per week on it, though you can move at a slower pace if needed. There is no fee for watching lectures or taking quizzes, but you must pay a $49 monthly subscription to submit assignments or receive a certificate upon completion.[[Click here to see.](https://www.coursera.org/specializations/machine-learning)]
+
 * Udemy's Complete 2022 Data Science & Machine Learning Bootcamp: A comprehensive introduction to machine learning concepts including Python programming language fundamentals, data manipulation with scikit-learn, and implementing supervised learning algorithms for classification problems such as decision trees and random forests. [[Click here to see.](https://www.udemy.com/course/python-data-science-machine-learning-bootcamp/)]
 * Skillshare’s Data Science and Machine Learning with Python - Hands On!: A great course that is easy to comprehend and that is beginner friendly. Contains many machine learning concepts and has multiple hands-on projects to help you understand machine learning concepts even better. Contains about ten and a half hours of video content. [[Click here to see.](https://www.skillshare.com/classes/Data-Science-and-Machine-Learning-with-Python-Hands-On/1263657127?via=user-profile)]
 * edX’s CS50's Introduction to Artificial Intelligence with Python: This is a great course for those who want to get into the field of AI. This course is offered by Harvard University, and takes an estimated 7 weeks if you spend 10-30 hours a week on it, though since it is self paced you can go slower or faster if you feel that you need to. [[Click here to see.](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python?index=product&queryID=eefe3b17e8c811bf008ff05297884d6f&position=1)]
