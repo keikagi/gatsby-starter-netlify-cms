@@ -60,7 +60,7 @@ All of these sites provide real-world examples of machine learning and AI, taugh
 
 Here are some of the top courses:
 
-### **[Intro to Machine Learning Nanodegree](https://www.udacity.com/course/intro-to-machine-learning--ud120)**
+### **Intro to Machine Learning Nanodegree**
 
 **By Udacity**
 
