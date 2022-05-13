@@ -16,6 +16,18 @@ tags:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VdRcnNtpJqI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ```
 
+<table  border="1">
+
+<tr border="1">
+
+<td>test</td>
+
+<td >test</td>
+
+</tr>
+
+</table>
+
 ![Picture of a Starship robot delivering packages. Photo by Bill Nino via Unsplash](/img/bill-nino-gteh4r8ssqm-unsplash.jpg "Picture of a Starship robot delivering packages. Photo by Bill Nino via Unsplash")
 
 Do you want to learn AI, but don’t know where to start? Well, we have listed 5 great platforms and courses to help you learn how to create your own AI’s in no time! These sites all require a basic knowledge of coding, so if you don’t know how to code yet, then you might want to check out our post here on the best places to learn coding. The sites listed in this article will teach you everything that you need to know about AI, including how they work, how to make them, and how they might be used in real world situations.
