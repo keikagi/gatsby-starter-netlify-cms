@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Top 5 places for a middle schooler to learn AI.
 date: 2022-05-06T00:14:14.758Z
-description: AI might seem complicated, but if you're learning from the right
+description: A might seem complicated, but if you're learning from the right
   place then it becomes simple and intuitive.
 featuredpost: true
 featuredimage: /img/bill-nino-gteh4r8ssqm-unsplash.jpg
