@@ -1,29 +1,26 @@
 ---
 templateKey: index-page
-title: Great coffee without a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: How to learn AI as a kid
+image: /img/ai-g1cc9ac5bf_1920.jpg
+heading: "So what's the first step? "
+subheading: Resources, and guidance for learning AI
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+  title: "Like every journey, learning AI begins with a single step forward. "
+  description: If you're just starting to learn AI, it can be hard to know where
+    to begin. But don't worry! You're not alone. There are tons of people like
+    you who are just starting out and trying to figure out how they can get
+    involved in this exciting new world.
+description: "Make a list of your interests is for learning AI, like topics,
+  technology, applications, industry fields, then set a goal for yourself to
+  measure your progress in learning AI. "
 intro:
   blurbs:
     - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+      text: You need to understand what AI is. This might sound obvious, but it's
+        important! If you don't understand how something works, how do you know
+        when it's working well? How do you know when it's not working well? And
+        how do you know if there's even anything wrong with it in the first
+        place?
     - image: /img/coffee-gear.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
@@ -37,19 +34,8 @@ intro:
         to help. You can schedule a custom 1-on-1 consultation with our baristas
         to learn anything you want to know about coffee roasting and brewing.
         Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  heading: Hello
+  description: "What is this? "
 main:
   heading: Great coffee with no compromises
   description: >
