@@ -14,26 +14,7 @@ description: "Make a list of your interests is for learning AI, like topics,
   technology, applications, industry fields, then set a goal for yourself to
   measure your progress in learning AI. "
 intro:
-  blurbs:
-    - image: /img/coffee.png
-      text: You need to understand what AI is. This might sound obvious, but it's
-        important! If you don't understand how something works, how do you know
-        when it's working well? How do you know when it's not working well? And
-        how do you know if there's even anything wrong with it in the first
-        place?
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+  blurbs: []
   heading: Hello
   description: "What is this? "
 main:
